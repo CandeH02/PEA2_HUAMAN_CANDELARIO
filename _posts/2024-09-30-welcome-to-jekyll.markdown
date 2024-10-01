@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  "PEA2 CANDELARIO HUAMAN CARRION !"
+title:  "PEA2 CANDELARIO HUAMAN CARRION"
 date:   2024-09-05 22:35:19 -0500
 categories: ACCESORIOS
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+`MISION`
+Nuestra misión es empoderar a los usuarios a personalizar sus teclados y crear experiencias de escrituras unicas y satisfactorias.
+A través de una amplia gama de accesorios de alta calidad, buscamos transformar los teclados en herramientas que reflejen la individualidad de cada usuario.
 
-Jekyll requires blog post files to be named according to the following format:
+`VISION`
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Aspiramos a ser reconocidos como la marca líder en accesorios para teclados, ofreciendo una variedad incomparable de productos que satisfagan las necesidades y gustos de los usuarios gamers, programadores y todos aquellos que valoran una experiencia de escritura excepcional
 
 {% highlight ruby %}
 def print_hi(name)
