@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "PEA2 CANDELARIO HUAMAN"
 date:   2024-09-30 20:59:23 -0500
 categories: jekyll update
 ---
