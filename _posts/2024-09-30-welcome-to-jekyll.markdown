@@ -13,5 +13,3 @@ En Tarabjko, nuestra misión es brindar a los entusiastas de la tecnología los 
 
 Aspiramos a ser la marca líder en accesorios para computadoras en [tu ubicación], ofreciendo una amplia variedad de productos de alta calidad a precios competitivos. Queremos ser tu aliado para optimizar tu configuración, mejorar tu experiencia informática y llevar tu rendimiento al siguiente nivel.
 
-
-<h1>¡Hola, mundo!</h1>
