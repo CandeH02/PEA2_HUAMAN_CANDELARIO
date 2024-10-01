@@ -12,16 +12,6 @@ A través de una amplia gama de accesorios de alta calidad, buscamos transformar
 
 Aspiramos a ser reconocidos como la marca líder en accesorios para teclados, ofreciendo una variedad incomparable de productos que satisfagan las necesidades y gustos de los usuarios gamers, programadores y todos aquellos que valoran una experiencia de escritura excepcional
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
