@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PEA2 CANDELARIO HUAMAN"
+title:  "PEA2 CANDELARIO HUAMAN TU PAPI RICO"
 date:   2024-09-30 20:59:23 -0500
 categories: jekyll update
 ---
